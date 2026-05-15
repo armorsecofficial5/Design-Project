@@ -19,3 +19,10 @@ __pycache__/
 
 # OS files
 .DS_Store
+
+
+.env
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
