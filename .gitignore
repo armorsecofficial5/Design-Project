@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Raw data dumps
+data/raw/
+
+# Model artifacts and weights
+models/
+
+# Python cache and temp files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
